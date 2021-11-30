@@ -1,2 +1,1 @@
-web: java -Dserver.port=$PORT
-
+web: java -jar target/projeto-1.0.jar
